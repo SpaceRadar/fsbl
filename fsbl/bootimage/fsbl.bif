@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\XilinxProj\MYIR\MYiR_Linux\MYiR_Linux.sdk\fsbl\Debug\fsbl.elf
+	D:\XilinxProj\MYIR\MYiR_Linux\MYiR_Linux.sdk\zynq_design_wrapper_hw_platform_0\zynq_design_wrapper.bit
+	D:\XilinxProj\MYIR\MYiR_Linux\SD\u-boot.elf
+}
